@@ -1,0 +1,65 @@
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.deps.json
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.runtimeconfig.json
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.runtimeconfig.dev.json
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.dll
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.pdb
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.csprojAssemblyReference.cache
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.AssemblyInfoInputs.cache
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.AssemblyInfo.cs
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.csproj.CoreCompileInputs.cache
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.dll
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.pdb
+/home/alex/Documentos/C#/UNAJ/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.genruntimeconfig.cache
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.deps.json
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.runtimeconfig.json
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.runtimeconfig.dev.json
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.dll
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.pdb
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.csprojAssemblyReference.cache
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.AssemblyInfoInputs.cache
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.AssemblyInfo.cs
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.csproj.CoreCompileInputs.cache
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.dll
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.pdb
+/home/alex/Documentos/C#/UNAJ/Alex/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.genruntimeconfig.cache
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.exe
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.deps.json
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.runtimeconfig.json
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.runtimeconfig.dev.json
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.dll
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.pdb
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.csprojAssemblyReference.cache
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.csproj.CoreCompileInputs.cache
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.AssemblyInfoInputs.cache
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.AssemblyInfo.cs
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.dll
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.pdb
+D:/Documentos/UNAJ/2º año/Algoritmos/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.genruntimeconfig.cache
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.deps.json
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.runtimeconfig.json
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.runtimeconfig.dev.json
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.dll
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/bin/Debug/netcoreapp3.1/Proyecto_5.pdb
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.csprojAssemblyReference.cache
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.AssemblyInfoInputs.cache
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.AssemblyInfo.cs
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.csproj.CoreCompileInputs.cache
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.dll
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.pdb
+/home/alex/Documentos/Programacion/C#/UNAJ/Fusion/Proyecto_5/obj/Debug/netcoreapp3.1/Proyecto_5.genruntimeconfig.cache
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\bin\Debug\netcoreapp3.1\Proyecto_5.exe
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\bin\Debug\netcoreapp3.1\Proyecto_5.deps.json
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\bin\Debug\netcoreapp3.1\Proyecto_5.runtimeconfig.json
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\bin\Debug\netcoreapp3.1\Proyecto_5.runtimeconfig.dev.json
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\bin\Debug\netcoreapp3.1\Proyecto_5.dll
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\bin\Debug\netcoreapp3.1\Proyecto_5.pdb
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\obj\Debug\netcoreapp3.1\Proyecto_5.csprojAssemblyReference.cache
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\obj\Debug\netcoreapp3.1\Proyecto_5.csproj.CoreCompileInputs.cache
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\obj\Debug\netcoreapp3.1\Proyecto_5.AssemblyInfoInputs.cache
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\obj\Debug\netcoreapp3.1\Proyecto_5.AssemblyInfo.cs
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\obj\Debug\netcoreapp3.1\Proyecto_5.dll
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\obj\Debug\netcoreapp3.1\Proyecto_5.pdb
+D:\Documentos\UNAJ\2º año\Algoritmos\Proyecto - 5\obj\Debug\netcoreapp3.1\Proyecto_5.genruntimeconfig.cache
